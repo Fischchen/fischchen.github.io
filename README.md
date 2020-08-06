@@ -1,5 +1,5 @@
 # Meine Website über datenschutz im Internet
-#ToDo:
+## ToDo:
 1. Infos in website einfügen
 2. Infos schreiben und passende bilder finden und lizenzen klären
 3. Such system mit lunr
