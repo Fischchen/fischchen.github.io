@@ -1,7 +1,7 @@
 ﻿Jeder hat schonmal Google benutzt. Und fast jeder hat gehört das Google Unmengen
 daten speichert und verwertet. Doch wie schlimm ist es wirklich? Hört Google
 wirklich uns mit unseren eigenen Handys ab? Oder sind das alles nur Gerüchte?
-Die Antwort ist das manches ein Gerücht und manches die Wahrheit ist.Google bietet ein sogenannten Daten-export an mit dem sie laut Google alle Daten die Google über sie besitzt lesen können. (datenexport link: https://takeout.google.com/) 
+Die Antwort ist das manches ein Gerücht und manches die Wahrheit ist. Google bietet ein sogenannten Daten-export an mit dem sie laut Google alle Daten das Google über sie besitzt lesen können. (Daten Export link: https://takeout.google.com/) 
 Google speichert zum Beispiel:
 Begriffe, nach denen Sie suchen
 Videos, die Sie sich ansehen
@@ -14,5 +14,5 @@ Der Chrome-Browserverlauf, den Sie mit Ihrem Google-Konto synchronisiert haben
 
 
 
-Google behält sich vor ihre daten geräte überschneident zu verknüpfen. Das heisst die infos von ihrem computer werden mit denen ihren handy verbunden um mehr und akuratere daten zu sammeln und ihnen ein „besserer erlebnis“ zu ermöglichen. Googel schreibt auch das sie die Daten nutzen um die Sicherheit ihrer dienste zu verbessern. Dazu zählen das Erkennen, Verhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsrisiken und technischen Problemen, die Google, unseren Nutzern oder der Öffentlichkeit schaden könnten. Mit diesem link sind die Informationen(wenn auch nur teilweise) übersichtlicher angezeigt als in dem Export, ausserdem lassen sich dort Daten schutz einstellungen ändern.
+Google behält sich vor ihre daten Geräte überschneidend zu verknüpfen. Das heißt die Infos von ihrem Computer werden mit denen ihr Handy verbunden um mehr und akkuratere daten zu sammeln und ihnen ein „besseres Erlebnis“ zu ermöglichen. Google schreibt auch das sie die Daten nutzen um die Sicherheit ihrer Dienste zu verbessern. Dazu zählen das Erkennen, Verhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsrisiken und technischen Problemen, die Google, unseren Nutzern oder der Öffentlichkeit schaden könnten. Mit diesem link sind die Informationen (wenn auch nur teilweise) übersichtlicher angezeigt als in dem Export, außerdem lassen sich dort Daten Schutz Einstellungen ändern.
 
